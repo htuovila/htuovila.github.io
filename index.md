@@ -1,7 +1,10 @@
 ### Contact
 Hong Kong resident
+
 firstname.lastname at alumni.aalto.fi
+
 [LinkedIn](https://www.linkedin.com/in/henrituovila/)
+
 [Twitter](https://twitter.com/htuovila)
 
 ### Projects
