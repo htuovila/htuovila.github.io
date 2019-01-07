@@ -1,11 +1,17 @@
-### Contact
-Hong Kong resident
+### Intro
+Finnish citizen, Hong Kong resident. M.Sc. (Tech.) from Aalto University where
+majored in [operations research and systems analysis](http://sal.aalto.fi/en/).
+Almost four years of experience
+as a portfolio analyst (quant) at OP Financial Group mostly programming MATLAB and
+developing portfolio optimisation models. 
 
-firstname.lastname at alumni.aalto.fi
+Gained international experience spending a semester in a prestigious
+French engineering school [École Centrale Paris](http://www.centralesupelec.fr/).
 
-[LinkedIn](https://www.linkedin.com/in/henrituovila/)
-
-[Twitter](https://twitter.com/htuovila)
+### Contact details
+* firstname.lastname at alumni.aalto.fi
+* [LinkedIn](https://www.linkedin.com/in/henrituovila/)
+* [Twitter](https://twitter.com/htuovila)
 
 ### Projects
 
