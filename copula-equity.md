@@ -44,7 +44,7 @@ Different parametric copulas. The fit measured by L2-norm.
 
 In the figure below a contour plot of some parametric copulas compared to the empirical copula. Clearly the t-copula and normal copula give the best fit.
 
-![Contour plot of different best-fit copulas](/figures-copula-equity/copula-contour.webp)
+![Contour plot of different best-fit copulas](/figures-copula-equity/copula-lines.webp)
 
 Next we generated joint distribution from the t-copula, which was seen as the best fit in the previous step. These uniform marginal distributions tied together according to the copula were transformed to the joint distribution of the true variables by using the inverse CDF transformation. The CDF was approximated by non-parametric kernel density estimation (ksdensity-function in MATLAB).
 
@@ -72,8 +72,6 @@ On the other hand, one disadvantage is that the flexible way to express views ma
 
 ## References
 
-[1]: Meucci, Attilio. “Beyond Black-Litterman: Views on Non-Normal Markets”
-[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=848407)
+[1]: [Meucci, Attilio. “Beyond Black-Litterman: Views on Non-Normal Markets”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=848407)
 
-[2]: Durrleman et al. “Which copula is the right one?”
-[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1032545)
+[2]: [Durrleman et al. “Which copula is the right one?”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1032545)
