@@ -5,11 +5,12 @@ Almost four years of experience
 as a portfolio analyst (quant) at OP Financial Group mostly programming MATLAB and
 developing portfolio optimisation models. 
 
-Gained international experience spending a semester in a prestigious
+Prior international experience from spending a semester in a prestigious
 French engineering school [École Centrale Paris](http://www.centralesupelec.fr/).
 
 ### Contact details
 * firstname.lastname at alumni.aalto.fi
+* HK country code + 5668 6561
 * [LinkedIn](https://www.linkedin.com/in/henrituovila/)
 * [Twitter](https://twitter.com/htuovila)
 
