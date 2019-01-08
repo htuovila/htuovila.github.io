@@ -8,12 +8,12 @@ developing portfolio optimisation models.
 Prior international experience from spending a semester in a prestigious
 French engineering school [École Centrale Paris](http://www.centralesupelec.fr/).
 
-## Contact details
+## Contact
 * firstname.lastname at alumni.aalto.fi
 * [LinkedIn](https://www.linkedin.com/in/henrituovila/)
 * [Twitter](https://twitter.com/htuovila)
 
-## Major Research Projects
+## Research Projects
 
 * [Master's thesis: Optimised Strategies for Dynamic Asset Allocation](optimised-strategies.md) (2016)
 * [Bachelor's thesis: Using copulas in combining investor views and market information for return distributions of equity indices](copula-equity.md) (2014)
@@ -21,3 +21,37 @@ French engineering school [École Centrale Paris](http://www.centralesupelec.fr/
 * [Dependent Evidence in Probabilistic Reasoning - Applying Copulas in Combining Non-Destructive Tests of Final Disposal Canisters](dependent-evidence-copula.md) (2012)
 
 ## Other projects
+
+* Wrangling and visualising exercise data (ongoing)
+* [ARPM Bootcamp practice](arpm-bootcamp.md) (2016)
+
+## Learning
+
+### Ongoing
+* [Introduction to Functional Programming (EPFL)](https://www.coursera.org/learn/progfun1/home/welcome)
+  * Scala, Functional Programming
+
+### Finished
+* [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting/home/welcome)
+  * Audit in 2018
+  * Python, Matplotlib
+
+* [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining/home/welcome)
+  * Audit in 2018
+  * Python, Regex, NLP
+
+* [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/)
+  * Audit in 2018
+  * Python, Data structures in python, Pandas, NumPy
+
+* [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/)
+  * Audit in 2018
+  * Python, Machine learning, scikit-learn
+
+* [Machine Learning](https://www.coursera.org/learn/machine-learning)
+  * [Certificate in 2016](https://www.coursera.org/account/accomplishments/verify/PM3UF78ER7Y3)
+  * Machine learning fundamentals
+
+Audit = video lectures, readings and examples.
+Unpaid mode of Coursera without the graded exercises
+or certificate for completing the course.
