@@ -3,7 +3,7 @@
 * My master’s thesis, finished in spring 2016.
 * The thesis was written while working full-time at OP financial group.
 * Motivation for the thesis was building a multi-period asset allocation optimiser for strategic long-term allocation planning.
-* Full version (pdf) available at [Systems analysis laboratory web page](http://sal.aalto.fi/publications/pdf-files/ttuo16_public.pdf)
+* Full pdf available at [Systems analysis laboratory web page](http://sal.aalto.fi/publications/pdf-files/ttuo16_public.pdf)
 
 ## Introduction
 
@@ -28,6 +28,7 @@ In the first figure we have the five time series representing the asset classes 
 * Corporate bonds (investment grade)
 * Equities (DAX index)
 * Real estate (local property price index from Finland supplemented with a rental yield and subtracted a fixed maintenance cost of 3% annually).
+
 The return indices do not, however reveal the true stochastic nature behind these asset classes, and in the following figure we show the risk drivers:
 
 * Money market rate
@@ -45,6 +46,8 @@ The invariants are:
 ![Market data](/figures-optimised-strategies/time-series1.webp)
 
 ![Invariant time series](/figures-optimised-strategies/time-series1.webp)
+
+![Histogram](/figures-optimised-strategies/histogram.webp)
 
 ## Generating scenario trees
 
@@ -64,6 +67,8 @@ For interest rate factors (short rate, bond rate, and investment grade spread), 
 
 In the CIR model the rate is assumed to converge back to the equilibrium level. which is subject to estimation and could be set by an expert opinion. Another parameter in the CIR model is the speed how fast the rate will return back to the equilibrium. In this thesis these parameters were estimated using the past history of extremely low interest rates from Japan, and the equilibrium level was set to the current level.
 
+![Scenario trees](/figures-optimised-strategies/scenario-trees.webp)
+
 ## Optimisation and results
 
 Finally after having defined all the scenario trees we are able to conduct the optimisation.
@@ -75,6 +80,14 @@ In the panel on the right is shown the wealth distribution at the end of the pla
 On the other hand, the dynamic strategy has more probability mass below the target return, and in the lower tail of the distribution. It seems that the dynamic strategy produces both very positive, and very negative outcomes.
 
 All this depends of course on the risk aversion defined by the utility function.
+
+![Optimised scenario trees for certain parameters](/figures-optimised-strategies/optimisation-result.webp)
+
+In the next figure we show the optimized allocations for different risk aversions and different target returns. The utility function was constructed as a shortfall cost with two parameters, and in each column of panels we have fixed the other risk aversion parameter, while the other changes along the horizontal axis.
+
+In each row we have different target returns, below which the shortfall cost part in the utility function kicks in and penalizes for not reaching the target.
+
+![Optimal allocations for different risk aversion parameters](/figures-optimised-strategies/optimised-allocations.webp)
 
 ## Conclusions and end notes
 

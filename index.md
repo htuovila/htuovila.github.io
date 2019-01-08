@@ -10,7 +10,6 @@ French engineering school [École Centrale Paris](http://www.centralesupelec.fr/
 
 ### Contact details
 * firstname.lastname at alumni.aalto.fi
-* HK country code + 5668 6561
 * [LinkedIn](https://www.linkedin.com/in/henrituovila/)
 * [Twitter](https://twitter.com/htuovila)
 
