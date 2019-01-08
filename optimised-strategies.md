@@ -47,7 +47,7 @@ The invariants are:
 
 ![Invariant time series](/figures-optimised-strategies/time-series1.webp)
 
-![Histogram](/figures-optimised-strategies/histogram.webp)
+![Histogram](/figures-optimised-strategies/histograms.webp)
 
 ## Generating scenario trees
 
