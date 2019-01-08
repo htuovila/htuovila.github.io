@@ -8,9 +8,9 @@
 
 ## Motivation
 
-Motivation for this thesis was to implement the COP model (Copula Opinion Pooling) as suggested by [Attilio Meucci.] [1] The idea is to impose practitioner’s subjective views to the neutral ‘prior’ distributions to come up with a twisted ‘posterior’ distribution. The resulting (joint) posterior distribution can then be used as an input to portfolio optimisation.
+Motivation for this thesis was to implement the COP model (Copula Opinion Pooling) as suggested by Attilio Meucci. [1] The idea is to impose practitioner’s subjective views to the neutral ‘prior’ distributions to come up with a twisted ‘posterior’ distribution. The resulting (joint) posterior distribution can then be used as an input to portfolio optimisation.
 
-Exact notation can be found in the link provided above, or in the paper by [Meucci][1].
+Exact notation can be found in the link provided above, or in the paper by Meucci [1].
 
 The intuition of the model goes as follows:
 
@@ -33,7 +33,7 @@ The QQ-plot of both indices suggest non-normal fat tails, which makes COP as a m
 
 ![QQ-plot of weekly returns](/figures-copula-equity/qq-plot.webp)
 
-Next we studied the copulas, and tried to estimate the best fit. For this purpose we used an L2-norm [as suggested in][2]. However, it is important to note that not one rigid method for estimating the right copula exists, and the approach has more room for improvement here.
+Next we studied the copulas, and tried to estimate the best fit. For this purpose we used an L2-norm as suggested in [2]. However, it is important to note that not one rigid method for estimating the right copula exists, and the approach has more room for improvement here.
 
 The empirical copula is shown in the figure below.
 ![Scatter plot of the empirical copula](/figures-copula-equity/copula-scatter.webp)
@@ -43,7 +43,6 @@ Different parametric copulas. The fit measured by L2-norm.
 ![Parameters for best fit copulas from different families](/figures-copula-equity/copula-parameters.webp)
 
 In the figure below a contour plot of some parametric copulas compared to the empirical copula. Clearly the t-copula and normal copula give the best fit.
-
 
 ![Contour plot of different best-fit copulas](/figures-copula-equity/copula-contour.webp)
 
