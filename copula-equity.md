@@ -23,34 +23,34 @@ The intuition of the model goes as follows:
 
 To keep the project scope reasonable the data was chosen to be simple equity indices (total return), for which the model would be calibrated and tested. These two equity indices were the French CAC 40, and the German DAX both shown in the following figures.
 
-![Time series](/figures-copula-equity/time-series.webp)
+![Time series](/figures-copula-equity/time-series.png)
 
 And the joint distribution of the weekly returns of the two indices CAC 40 and DAX.
 
-![Scatter plot of weekly returns](/figures-copula-equity/scatter.webp)
+![Scatter plot of weekly returns](/figures-copula-equity/scatter.png)
 
 The QQ-plot of both indices suggest non-normal fat tails, which makes COP as a more flexible model superior to the Black-Litterman model, where both the priors and the views are expressed as normal distributions.
 
-![QQ-plot of weekly returns](/figures-copula-equity/qq-plot.webp)
+![QQ-plot of weekly returns](/figures-copula-equity/qq-plot.png)
 
 Next we studied the copulas, and tried to estimate the best fit. For this purpose we used an L2-norm as suggested in [2]. However, it is important to note that not one rigid method for estimating the right copula exists, and the approach has more room for improvement here.
 
 The empirical copula is shown in the figure below.
-![Scatter plot of the empirical copula](/figures-copula-equity/copula-scatter.webp)
+![Scatter plot of the empirical copula](/figures-copula-equity/copula-scatter.png)
 
 Different parametric copulas. The fit measured by L2-norm.
 
-![Parameters for best fit copulas from different families](/figures-copula-equity/copula-parameters.webp)
+![Parameters for best fit copulas from different families](/figures-copula-equity/copula-parameters.png)
 
 In the figure below a contour plot of some parametric copulas compared to the empirical copula. Clearly the t-copula and normal copula give the best fit.
 
-![Contour plot of different best-fit copulas](/figures-copula-equity/copula-contour.webp)
+![Contour plot of different best-fit copulas](/figures-copula-equity/copula-contour.png)
 
 Next we generated joint distribution from the t-copula, which was seen as the best fit in the previous step. These uniform marginal distributions tied together according to the copula were transformed to the joint distribution of the true variables by using the inverse CDF transformation. The CDF was approximated by non-parametric kernel density estimation (ksdensity-function in MATLAB).
 
 The simulated joint scenarios shown in the figure below.
 
-![Prior simulation](/figures-copula-equity/simulation-prior.webp)
+![Prior simulation](/figures-copula-equity/simulation-prior.png)
 
 Finally, we imposed an arbitrary view on the other equity index, which was expressed as a uniform distribution from 0 to 0.1. Confidence was set to c=0.2.
 
@@ -58,7 +58,7 @@ On the other index no view was expressed, which means the marginal is left intac
 
 The twisted joint distribution (posterior) is seen below.
 
-![Posterior simulation after applying the views](/figures-copula-equity/simulation-posterior.webp)
+![Posterior simulation after applying the views](/figures-copula-equity/simulation-posterior.png)
 
 In the last figure below we have combined all the interesting distributions in the same plot: prior, view, and the posterior. The view is shown in the blue dashed line.
 

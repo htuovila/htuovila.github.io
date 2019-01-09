@@ -43,11 +43,11 @@ The invariants are:
 * Compound return for stocks and real estate
 * Absolute difference in the risk driver for rates and spread.
 
-![Market data](/figures-optimised-strategies/time-series1.webp)
+![Market data](/figures-optimised-strategies/time-series1.png)
 
-![Invariant time series](/figures-optimised-strategies/time-series1.webp)
+![Invariant time series](/figures-optimised-strategies/time-series1.png)
 
-![Histogram](/figures-optimised-strategies/histograms.webp)
+![Histogram](/figures-optimised-strategies/histograms.png)
 
 ## Generating scenario trees
 
@@ -67,7 +67,7 @@ For interest rate factors (short rate, bond rate, and investment grade spread), 
 
 In the CIR model the rate is assumed to converge back to the equilibrium level. which is subject to estimation and could be set by an expert opinion. Another parameter in the CIR model is the speed how fast the rate will return back to the equilibrium. In this thesis these parameters were estimated using the past history of extremely low interest rates from Japan, and the equilibrium level was set to the current level.
 
-![Scenario trees](/figures-optimised-strategies/scenario-trees.webp)
+![Scenario trees](/figures-optimised-strategies/scenario-trees.png)
 
 ## Optimisation and results
 
@@ -81,13 +81,13 @@ On the other hand, the dynamic strategy has more probability mass below the targ
 
 All this depends of course on the risk aversion defined by the utility function.
 
-![Optimised scenario trees for certain parameters](/figures-optimised-strategies/optimisation-result.webp)
+![Optimised scenario trees for certain parameters](/figures-optimised-strategies/optimisation-result.png)
 
 In the next figure we show the optimized allocations for different risk aversions and different target returns. The utility function was constructed as a shortfall cost with two parameters, and in each column of panels we have fixed the other risk aversion parameter, while the other changes along the horizontal axis.
 
 In each row we have different target returns, below which the shortfall cost part in the utility function kicks in and penalizes for not reaching the target.
 
-![Optimal allocations for different risk aversion parameters](/figures-optimised-strategies/optimised-allocations.webp)
+![Optimal allocations for different risk aversion parameters](/figures-optimised-strategies/optimised-allocations.png)
 
 ## Conclusions and end notes
 

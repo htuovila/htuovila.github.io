@@ -16,6 +16,6 @@ In the first figure below we show one copula function with its PDF and CDF (uppe
 
 In the last figure we show how the dependence assumption affected the variable ‘q’, which was the probability of not detecting a defect in a final disposal canister. If the tests were truly independent, they performed better, but if the assumption of independence is incorrect, we may underestimate the true risk.
 
-![3D plots of copula functions](/figures-other/nuclear-waste-copula.webp)
+![3D plots of copula functions](/figures-other/nuclear-waste-copula.png)
 
-![Probability of not detecting a defect as a function of correlation parameter](/figures-other/copula-correlation.webp)
+![Probability of not detecting a defect as a function of correlation parameter](/figures-other/copula-correlation.png)

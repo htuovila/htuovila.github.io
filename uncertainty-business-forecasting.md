@@ -13,4 +13,4 @@ The major forecasting algorithm (Holt-Winters exponential smoothing) was written
 
 Below a screenshot of the Excel demonstrator tool built for running the model. On the left we have a drop-down selection for the model in use for each row of the balance sheet. In the right hand side we show the next estimated value, and its confidence limits.
 
-![Screenshot of Excel application](/figures-other/uncertainty-ecp.webp)
+![Screenshot of Excel application](/figures-other/uncertainty-ecp.png)

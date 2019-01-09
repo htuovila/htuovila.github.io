@@ -1,13 +1,19 @@
 
 # ARPM Bootcamp practice project
 
-I participated in August 2016 in the famous Advanced Risk and Portfolio Management bootcamp seminar in New York City led by the creator Attilio Meucci.
+I participated in August 2016 in the famous "Advanced Risk and Portfolio Management" (ARPM) bootcamp seminar in New York City led by the creator Attilio Meucci.
 
 To earn a certificate the attendees have to take a two part assignment:
 a) programming in MATLAB
 b) pen & paper exam online.
 
-This project contains my submission on the practice part.
+This project contains my submission to the programming assignment.
+
+Deliverables for this assignment can be found here:
+https://github.com/htuovila/ARPM_programming_assignment
+
+and the one-page pdf explaining what was done here:
+https://github.com/htuovila/ARPM_programming_assignment/blob/master/Description.pdf
 
 ## Introduction
 
@@ -25,16 +31,16 @@ The panel in the bottom contains the time series of the VIX index, which is the 
 
 The next two-panel figure shows the true S&P 500 historical returns as a distribution, and the historical returns of a portfolio of individual S&P 500 stocks with equal weights in the portfolio.
 
-![Time series](/figures-other/time-series.webp)
+![Time series](/figures-other/time-series.png)
 
-![Time series](/figures-other/histograms.webp)
+![Time series](/figures-other/histograms.png)
 
 In the next two figures we have the joint distribution of two of the S&P constituents, and the respective copula function.
 
 We have set a conditioning treshold for the VIX index at 27 index points, above which we consider the market to be in a state of 'panic'. The respective 'panic' observations are highlighted by red markers. In the latter figure it is easy to argue that indeed, the extreme events occur when the VIX index peaks.
 
-![Time series](/figures-other/scatter.webp)
-![Time series](/figures-other/copula-scatter.webp)
+![Time series](/figures-other/scatter.png)
+![Time series](/figures-other/copula-scatter.png)
 
 Next we applied a simple conditioning, and separated the observations to two groups: panic and calm markets. Both distributions can be seen in the figure below.
 
@@ -42,15 +48,15 @@ In the next figure we have applied so called ‘crisp’ conditioning to the VIX
 
 These flexible probabilities allow us to construct distributions for stress testing a portfolio of S&P 500 constituents in different market conditions defined by the conditioning.
 
-![Time series](/figures-other/weighted-histogram.webp)
-![Time series](/figures-other/conditioning1.webp)
+![Time series](/figures-other/weighted-histogram.png)
+![Time series](/figures-other/conditioning1.png)
 
 Next we applied a more sophisticated way to come up with the flexible probabilities: smooth gaussian kernel.
 
 The probability of an observation decreases when the conditioning variable decreases, and drops to zero when far enough from the conditioning treshod. This is a neater way to come up with the stress testing distributions, since the selection of an arbitrary panic treshold is not similarly strict.
 
-![Time series](/figures-other/conditioning2.webp)
-![Time series](/figures-other/cdfs.webp)
+![Time series](/figures-other/conditioning2.png)
+![Time series](/figures-other/cdfs.png)
 
 ## End notes and conclusions
 
