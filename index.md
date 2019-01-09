@@ -12,7 +12,7 @@ Contact:
 firstname.lastname at alumni.aalto.fi
 &#124;
 +852 5668 6561
-
+&#124;
 [LinkedIn](https://www.linkedin.com/in/henrituovila/)
 &#124;
 [Twitter](https://twitter.com/htuovila)
