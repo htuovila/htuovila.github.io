@@ -4,15 +4,21 @@ majored in [operations research and systems analysis](http://sal.aalto.fi/en/).
 Almost four years of experience
 as a portfolio analyst (quant) at OP Financial Group mostly programming MATLAB and
 developing portfolio optimisation models. 
-
-Prior international experience from spending a semester in a prestigious
-French engineering school [École Centrale Paris](http://www.centralesupelec.fr/).
-
 Up for new challenges in data and analytics.
 
-## Contact
+Contact: 
+
 firstname.lastname at alumni.aalto.fi | +852 5668 6561
+
 [LinkedIn](https://www.linkedin.com/in/henrituovila/) | [Twitter](https://twitter.com/htuovila)
+
+## Education
+* M.Sc. (Tech.), Aalto University, 2016
+   * Major: Systems and Operations Research, Minor: Economics
+* B.Sc. (Tech.), Aalto University, 2014
+   * Major: Systems Sciences, Minor: Industrial Management
+* Semester abroad, École Centrale Paris, 2013
+   * Certificat d’Études Scientifiques en Ingénierie
 
 ## Research Projects
 
