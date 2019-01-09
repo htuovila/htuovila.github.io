@@ -9,7 +9,9 @@ Up for new challenges in data and analytics.
 
 Contact: 
 
-firstname.lastname at alumni.aalto.fi | +852 5668 6561
+firstname.lastname at alumni.aalto.fi
+
++852 5668 6561
 
 [LinkedIn](https://www.linkedin.com/in/henrituovila/) | [Twitter](https://twitter.com/htuovila)
 
