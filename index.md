@@ -3,7 +3,8 @@ Finnish citizen, Hong Kong resident. M.Sc. (Tech.) from Aalto University where
 majored in [operations research and systems analysis](http://sal.aalto.fi/en/).
 Almost four years of experience
 as a portfolio analyst (quant) at OP Financial Group mostly programming MATLAB and
-developing portfolio optimisation models. 
+developing portfolio optimisation models.
+
 Up for new challenges in data and analytics.
 
 Contact: 
