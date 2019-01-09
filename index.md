@@ -8,10 +8,11 @@ developing portfolio optimisation models.
 Prior international experience from spending a semester in a prestigious
 French engineering school [École Centrale Paris](http://www.centralesupelec.fr/).
 
+Up for new challenges in data and analytics.
+
 ## Contact
-* firstname.lastname at alumni.aalto.fi
-* [LinkedIn](https://www.linkedin.com/in/henrituovila/)
-* [Twitter](https://twitter.com/htuovila)
+firstname.lastname at alumni.aalto.fi | +852 5668 6561
+[LinkedIn](https://www.linkedin.com/in/henrituovila/) | [Twitter](https://twitter.com/htuovila)
 
 ## Research Projects
 
@@ -23,7 +24,7 @@ French engineering school [École Centrale Paris](http://www.centralesupelec.fr/
 ## Other projects
 
 * Wrangling and visualising exercise data (ongoing)
-* [ARPM Bootcamp practice](arpm-bootcamp.md) (2016)
+* [ARPM Bootcamp Programming Assignment](arpm-bootcamp.md) (2016)
 
 ## Learning
 
