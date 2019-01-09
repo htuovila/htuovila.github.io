@@ -10,10 +10,12 @@ Up for new challenges in data and analytics.
 Contact: 
 
 firstname.lastname at alumni.aalto.fi
-
+<code>&#124;&#124;</code>
 +852 5668 6561
 
-[LinkedIn](https://www.linkedin.com/in/henrituovila/) | [Twitter](https://twitter.com/htuovila)
+[LinkedIn](https://www.linkedin.com/in/henrituovila/)
+<code>&#124</code> 
+[Twitter](https://twitter.com/htuovila)
 
 ## Education
 * M.Sc. (Tech.), Aalto University, 2016
