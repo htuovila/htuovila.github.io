@@ -10,10 +10,10 @@ b) pen & paper exam online.
 This project contains my submission to the programming assignment.
 
 Deliverables for this assignment can be found here:
-https://github.com/htuovila/ARPM_programming_assignment
+[https://github.com/htuovila/ARPM_programming_assignment]
 
 and the one-page pdf explaining what was done here:
-https://github.com/htuovila/ARPM_programming_assignment/blob/master/Description.pdf
+[https://github.com/htuovila/ARPM_programming_assignment/blob/master/Description.pdf]
 
 ## Introduction
 
