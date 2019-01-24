@@ -41,11 +41,6 @@ Up for new challenges in data and analytics.
 
 ## Learning
 
-### Ongoing
-* [Introduction to Functional Programming (EPFL)](https://www.coursera.org/learn/progfun1/home/welcome)
-  * Scala, Functional Programming
-
-### Finished
 * [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting/home/welcome)
   * Audit in 2018
   * Python, Matplotlib
