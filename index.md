@@ -1,12 +1,3 @@
-## Intro
-Finnish citizen, Hong Kong resident. M.Sc. (Tech.) from Aalto University where
-majored in [operations research and systems analysis](http://sal.aalto.fi/en/).
-Almost four years of experience
-as a portfolio analyst (quant) at OP Financial Group mostly programming MATLAB and
-developing portfolio optimisation models.
-
-Up for new challenges in data and analytics.
-
 Contact: 
 
 firstname.lastname at alumni.aalto.fi
@@ -16,6 +7,17 @@ firstname.lastname at alumni.aalto.fi
 [LinkedIn](https://www.linkedin.com/in/henrituovila/)
 &#124;
 [Twitter](https://twitter.com/htuovila)
+&#124;
+[GitHub](https://github.com/htuovila/)
+
+## Intro
+Finnish citizen, Hong Kong resident. M.Sc. (Tech.) from Aalto University where
+majored in [operations research and systems analysis](http://sal.aalto.fi/en/).
+Almost four years of experience
+as a portfolio analyst (quant) at OP Financial Group mostly programming MATLAB and
+developing portfolio optimisation models.
+
+Up for new challenges in data and analytics.
 
 ## Education
 * M.Sc. (Tech.), Aalto University, 2016
