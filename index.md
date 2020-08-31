@@ -1,66 +1,57 @@
-Contact: 
+HENRI TUOVILA
+Finnish national, HK resident
+gmail/github/twitter: htuovila
 
-firstname.lastname at alumni.aalto.fi
-&#124;
-+852 5668 6561
-&#124;
-[LinkedIn](https://www.linkedin.com/in/henrituovila/)
-&#124;
-[Twitter](https://twitter.com/htuovila)
-&#124;
-[GitHub](https://github.com/htuovila/)
+SUMMARY
+----------------------------------------------------------------
+Hong Kong based software developer and data scientist with M.Sc.
+(Tech.) degree. Previously a quant analyst in Finland's largest 
+financial group developing simulation and optimisation models
+for asset allocation.
 
-## Intro
-Finnish citizen, Hong Kong resident. M.Sc. (Tech.) from Aalto University where
-majored in [operations research and systems analysis](http://sal.aalto.fi/en/).
-Almost four years of experience
-as a portfolio analyst (quant) at OP Financial Group mostly programming MATLAB and
-developing portfolio optimisation models.
+EXPERIENCE
+----------------------------------------------------------------
+C&R WISE AI | cnr.ai                               Hong Kong SAR
+Software Developer                             05/2019 – present
+- HK startup developing visual analytics and enterprise systems.
+- Keywords: smart cities, mobile analytics, dashboards, image
+recognition, object detection, computer vision, Python, pgSQL, 
+Tableau, cloud computing, GCP.
 
-Up for new challenges in data and analytics.
+OP FINANCIAL GROUP, ASSET MANAGEMENT           Helsinki, Finland
+Portfolio Analyst                              05/2014 – 04/2018
+Strategic Asset Allocation and Portfolio Analysis 
+- Portfolio optimisation, investment planning, simulation 
+models, quantitative finance.
 
-## Education
-* M.Sc. (Tech.), Aalto University, 2016
-   * Major: Systems and Operations Research, Minor: Economics
-* B.Sc. (Tech.), Aalto University, 2014
-   * Major: Systems Sciences, Minor: Industrial Management
-* Semester abroad, École Centrale Paris, 2013
-   * Certificat d’Études Scientifiques en Ingénierie
+NORDEA MARKETS                                 Helsinki, Finland
+Assistant Analyst (multiple internships)       06/2009 – 09/2012
+Institutional Strategies and ALM 
+- Interest rate derivatives, debt investments, asset allocation,
+investment planning, asset and liability matching.
 
-## Research Projects
+EDUCATION
+----------------------------------------------------------------
+AALTO UNIVERSITY, SCHOOL OF SCIENCE            Helsinki, Finland
+M.Sc. (Tech.)                                     2008 – 06/2016
+Major: Systems and Operations Research 
+Minor: Economics 
+- Master’s thesis: Optimised Strategies for Dynamic Asset 
+Allocation.
 
-* [Master's thesis: Optimised Strategies for Dynamic Asset Allocation](optimised-strategies.md) (2016)
-* [Bachelor's thesis: Using copulas in combining investor views and market information for return distributions of equity indices](copula-equity.md) (2014)
-* [Uncertainty Modelling for Business Forecasting](uncertainty-business-forecasting.md) (2013)
-* [Dependent Evidence in Probabilistic Reasoning - Applying Copulas in Combining Non-Destructive Tests of Final Disposal Canisters](dependent-evidence-copula.md) (2012)
+AALTO UNIVERSITY, SCHOOL OF SCIENCE            Helsinki, Finland
+B.Sc. (Tech.)                                     2008 – 05/2014
+Major: Systems Sciences
+Minor: Industrial Management 
 
-## Other projects
+ÉCOLE CENTRALE PARIS                               Paris, France
+Semester program                               01/2013 – 06/2013
+- Earned "Certificat d’Études Scientifiques en Ingénierie 1"
 
-* Wrangling and visualising exercise data (ongoing)
-* [ARPM Bootcamp Programming Assignment](arpm-bootcamp.md) (2016)
+LANGUAGES
+----------------------------------------------------------------
+Finnish (native), English (full professional proficiency), 
+French (limited proficiency), Swedish (limited proficiency).
 
-## Learning
-
-* [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting/home/welcome)
-  * Audit in 2018
-  * Python, Matplotlib
-
-* [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining/home/welcome)
-  * Audit in 2018
-  * Python, Regex, NLP
-
-* [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/)
-  * Audit in 2018
-  * Python, Data structures in python, Pandas, NumPy
-
-* [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/)
-  * Audit in 2018
-  * Python, Machine learning, scikit-learn
-
-* [Machine Learning](https://www.coursera.org/learn/machine-learning)
-  * [Certificate in 2016](https://www.coursera.org/account/accomplishments/verify/PM3UF78ER7Y3)
-  * Machine learning fundamentals
-
-Audit = video lectures, readings and examples.
-Unpaid mode of Coursera without the graded exercises
-or certificate for completing the course.
+Programming: Python (Pandas, NumPy, Matplotlib, OpenCV) and SQL.
+Previously MATLAB, VBA and R.
